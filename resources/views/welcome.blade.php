@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel hellow gal
+                    Laravel hexcxcllow gal
                 </div>
 
                 <div class="links">
